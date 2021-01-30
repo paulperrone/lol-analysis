@@ -2,6 +2,8 @@
 data/*
 !data/gitkeep.txt
 notebooks/*.csv
+notebooks/trueskill/*.csv
+notebooks/patch_clusters/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

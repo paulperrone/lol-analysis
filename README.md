@@ -1,2 +1,2 @@
 # lol-analysis
-Skill expression by role in League of Legends 
+Varied exploration and analysis of League of Legends data.
