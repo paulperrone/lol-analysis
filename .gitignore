@@ -1,6 +1,7 @@
 # Data Folder
 data/*
 !data/gitkeep.txt
+notebooks/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
