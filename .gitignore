@@ -1,8 +1,11 @@
 # Data Folder
+OE_Analytics.py
 data/*
 !data/gitkeep.txt
 notebooks/*.csv
 notebooks/trueskill/*.csv
+notebooks/trueskill/rating_changes_by_champ/*.json
+notebooks/trueskill/rating_changes_by_champ/*.csv
 notebooks/patch_clusters/*.csv
 
 # Byte-compiled / optimized / DLL files
